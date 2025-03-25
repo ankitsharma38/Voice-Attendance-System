@@ -31,7 +31,7 @@ A **Python-based** attendance system using **voice recognition** with **PyQt5 GU
 
 1. **Clone the repo:**
    ```sh
-   git clone https://github.com/your-username/voice-attendance-system.git
+   git clone https://github.com/ankitsharma38/voice-attendance-system.git
    cd voice-attendance-system
    ```
 
