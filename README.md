@@ -76,6 +76,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## **Contact**
-Ankit Sharma - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - ankitsharma7805@gmail.com
+Ankit Sharma - ankitsharma7805@gmail.com
 
 Project Link: [https://github.com/ankitsharma38/voice-attendance-system](https://github.com/ankitsharma38/voice-attendance-system)
