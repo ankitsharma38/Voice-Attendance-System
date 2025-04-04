@@ -208,3 +208,21 @@
 2025-03-26 00:49:57,276 - __main__ - INFO - Attendance already marked today for Ankit Sharma (922017030)
 2025-03-26 00:49:57,278 - __main__ - INFO - Attendance marked for Ankit Sharma (922017030)
 2025-03-26 00:50:06,121 - __main__ - INFO - Starting attendance recording...
+2025-03-26 11:01:16,532 - __main__ - INFO - Login successful
+2025-03-26 11:01:17,106 - __main__ - INFO - Attendance tab setup completed
+2025-03-26 11:01:17,111 - __main__ - INFO - Enrollment tab setup completed
+2025-03-26 11:01:17,116 - __main__ - INFO - Classes tab setup completed
+2025-03-26 11:01:17,124 - __main__ - INFO - Reports tab setup completed
+2025-03-26 11:01:17,131 - __main__ - INFO - Created necessary directories
+2025-03-26 11:01:18,645 - __main__ - INFO - Microphone adjusted for ambient noise
+2025-03-26 11:01:18,646 - __main__ - INFO - UI initialized successfully
+2025-03-26 11:01:18,668 - __main__ - INFO - Connecting to MongoDB at: mongodb://localhost:27017
+2025-03-26 11:01:18,752 - __main__ - INFO - Successfully connected to MongoDB
+2025-03-26 11:01:18,787 - __main__ - INFO - Loaded 2 classes from database
+2025-03-26 11:01:18,791 - __main__ - INFO - Loaded 1 students for class 67e2fd0002a4f79a2ec6e74e section Batch A
+2025-03-26 11:01:18,794 - __main__ - INFO - Found 1 attendance records for display
+2025-03-26 11:01:18,820 - __main__ - INFO - Loaded sections for class 6EC3
+2025-03-26 11:01:18,827 - __main__ - INFO - Classes table updated
+2025-03-26 11:01:18,829 - __main__ - INFO - Loaded 2 enrolled students
+2025-03-26 11:01:18,831 - __main__ - INFO - Enrolled students table updated
+2025-03-26 11:01:18,832 - __main__ - INFO - Main application loaded successfully
